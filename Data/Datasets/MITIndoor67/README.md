@@ -31,7 +31,7 @@ In order to download follow the next steps:
 
 	For example
 
-		bash ./Scripts/download_MITIndoor67.sh ./Data/Datasets/MITIndoor67
+		bash ./Scripts/download_MITIndoor67_extra.sh ./Data/Datasets/MITIndoor67
 
 2. To use precomputed semantic segmentation activate the option `PRECOMPUTED_SEM` in `config_MITIndoor.yaml` configuration file:
 	
